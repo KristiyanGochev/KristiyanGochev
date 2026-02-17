@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kristiyan 👋
 
-<!--
-**KristiyanGochev/KristiyanGochev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack Software Engineer with 9+ years of experience building scalable **eCommerce platforms** and **ERP systems**.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- Full-stack development with **Angular Universal (SSR)**, **Node.js**, and **Python/Django**
+- Cloud infrastructure and deployments on **AWS** (ECS, EC2, RDS, S3, CI/CD)
+- Marketplace, payment, and logistics integrations (Stripe, DHL, multi-channel listings)
+- SEO-driven performance optimization for large-scale web platforms
+- AI-powered features using **OpenAI** and **Gemini**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 International Experience
+I’ve worked with distributed teams and international partners across the US and Japan, delivering production-grade platforms for global eCommerce businesses.
+
+## 🔒 Note about my work
+Most of my professional projects are in **private repositories** due to NDAs and company policies.
+
+## 🛠 Tech Stack
+- **Frontend:** Angular, Angular Universal (SSR), Ionic  
+- **Backend:** Node.js, Python, Django  
+- **Cloud/DevOps:** AWS, Docker, CI/CD  
+- **Databases:** PostgreSQL, MongoDB  
+- **Other:** SEO, Sentry, Google Analytics, AI Integrations  
+
+## 📫 Contact
+- LinkedIn: [Kristiyan Gochev](https://www.linkedin.com/in/kristiyan-gochev-718189131)
+- GitHub: [@KristiyanGochev](https://github.com/KristiyanGochev)
+
+---
+⭐ Open to Senior Full-Stack opportunities (EU/US Remote or international product teams)
